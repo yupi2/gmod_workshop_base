@@ -1,0 +1,14 @@
+{
+	"title"		:	"INEEDTOBECHANGED",
+	"type"		:	"ServerContent",
+	"tags"		:	[ "fun" ],
+	"ignore"	:
+	[
+		".gitkeep",
+		"*.psd",
+		"*.vcproj",
+		"*.svn*",
+		"old/*",
+		"_addon.json"
+	]
+}
