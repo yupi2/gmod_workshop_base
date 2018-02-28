@@ -4,7 +4,7 @@
 	"tags"		:	[ "fun" ],
 	"ignore"	:
 	[
-		".gitkeep",
+		"*.gitkeep",
 		"*.psd",
 		"*.vcproj",
 		"*.svn*",
